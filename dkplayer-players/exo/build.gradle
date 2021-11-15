@@ -29,4 +29,5 @@ ext {
     PUBLISH_ARTIFACT_ID = 'player-exo'
 }
 
-apply from: '../../publish.gradle'
+//apply from: '../../publish.gradle'
+apply from: '../../publish_yunyu.gradle'
